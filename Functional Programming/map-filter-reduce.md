@@ -1,8 +1,8 @@
 # Declarative Thinking with The Three Functional Musketeers: Map, Filter, Reduce
 
-In my previous article, What is Functional Programming? I gave a definition of functional programming. That was a very abstract definition, and probably few outside of the FP community would understand that. That's OK. When we're new to things it often helps to see examples of the abstract concepts.
+In a previous article, [Just What is Functional Programming](/blog/functional-programming/just-what-is-functional-programming)? I gave a definition of functional programming. That was a very abstract definition, and probably few outside of the FP community would understand that. That's OK. When we're new to things it often helps to see examples of the abstract concepts.
 
-I'm going to start in this article with a very simple example of applying category theory to everyday programming needs. Rather than using a functional language, I will adapt these concepts using Ruby and Golang, two languages I have to interact with frequently.
+I'm going to start in this article with a very simple example of applying category theory to everyday programming. Rather than using a functional language, I will adapt these concepts using Ruby and Golang, two languages I have to interact with frequently.
 
 ## Map
 
